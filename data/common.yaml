@@ -1,2 +1,2 @@
 ---
-secret_password: DEC(1)::PKCS7[some password]
+secret_password: DEC(1)::PKCS7[some password]!
