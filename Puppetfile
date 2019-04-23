@@ -1,1 +1,5 @@
 mod 'puppetlabs/ntp'
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs/motd'
+mod 'puppetlabs/registry'
+mod 'puppetlabs/translate'
