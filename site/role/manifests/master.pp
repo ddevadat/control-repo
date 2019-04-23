@@ -1,3 +1,3 @@
 class role::master{
-    include profile::10k
+    include profile::r10k
 }
