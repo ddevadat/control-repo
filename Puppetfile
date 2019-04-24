@@ -8,7 +8,6 @@ mod 'elastic-elastic_stack'
 mod 'puppet-yum'
 mod 'puppetlabs-concat'
 mod 'puppetlabs-apt'
-mod 'puppetlabs-translate'
 mod 'puppetlabs-yumrepo_core'
 
 
