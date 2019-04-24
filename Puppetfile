@@ -13,7 +13,7 @@ mod 'elastic-elasticsearch'
 mod 'elastic-elastic_stack'
 mod 'richardc-datacat'
 mod 'elastic-logstash'
-mod 'elastic-elastic_stack'
+
 
 
 
