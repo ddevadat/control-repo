@@ -20,6 +20,11 @@ mod 'puppetlabs-puppetdb', '7.1.0'
 mod 'puppetlabs-firewall', '1.15.3'
 mod 'puppetlabs-inifile', '2.5.0'
 mod 'puppetlabs-postgresql', '5.12.1'
+mod 'puppet-puppetboard', '5.0.0'
+mod 'puppet-python', '2.2.2'
+mod 'stahnma-epel', '1.3.1'
+mod 'puppetlabs-vcsrepo', '2.4.0'
+mod 'puppetlabs-apache', '4.1.0'
 
 
 
