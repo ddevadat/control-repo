@@ -1,2 +1,2 @@
 # control-repo
-This is for puppet essential training lab
+This is for puppet essential training lab.
