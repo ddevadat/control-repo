@@ -16,6 +16,9 @@ mod 'puppetlabs-java'
 mod 'puppet-archive'
 mod 'ddevadat-elk',
   :git => 'https://github.com/ddevadat/ddevadat-elk.git'
+mod 'puppetlabs-puppetdb', '7.1.0'
+mod 'puppetlabs-inifile', '2.5.0'
+mod 'puppetlabs-postgresql', '5.12.1'
 
 
 
