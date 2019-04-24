@@ -13,7 +13,7 @@ mod 'elastic-elasticsearch'
 mod 'richardc-datacat'
 mod 'elastic-logstash'
 mod 'ddevadat-git',
-  :git => 'https://github.com/ddevadat/ddevadat-elk.git'
+  :elk => 'https://github.com/ddevadat/ddevadat-elk.git'
 
 
 
