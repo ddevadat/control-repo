@@ -12,8 +12,8 @@ mod 'puppetlabs-yumrepo_core'
 mod 'elastic-elasticsearch'
 mod 'richardc-datacat'
 mod 'elastic-logstash'
-mod 'ddevadat-git',
-  :elk => 'https://github.com/ddevadat/ddevadat-elk.git'
+mod 'ddevadat-elk',
+  :git => 'https://github.com/ddevadat/ddevadat-elk.git'
 
 
 
